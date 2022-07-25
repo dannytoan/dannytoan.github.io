@@ -1,1 +1,1 @@
-https://www.dannytoan.github.io
+dannytoan.github.io
